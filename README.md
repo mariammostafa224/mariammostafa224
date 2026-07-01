@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Mariam Mostafa
+# Hi, I'm Mariam Mostafa 👋
 
 ### Full-Stack .NET Developer
 
@@ -143,38 +143,6 @@ Developed during DEPI Program using:
 - ASP.NET Core
 - Angular
 - SQL Server
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariammostafa224&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammostafa224&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mariammostafa224&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mariammostafa224&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
