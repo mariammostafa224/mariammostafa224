@@ -1,14 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Mariam Mostafa
+# Hi, I'm Mariam Mostafa 👋
 
 ### Full-Stack .NET Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;ASP.NET+Core+%7C+Angular+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=mariammostafa224&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 </div>
 
@@ -116,14 +112,33 @@
 
 # 🚀 Featured Projects
 
-| Project | Technologies |
-|----------|--------------|
-| ✈️ Smart Travel Planner | ASP.NET Core Web API • Angular • SQL Server |
-| 👁️ Visionary Aid (Graduation Project) | Python • PyTorch • OpenCV • FastAPI • gTTS |
-| 🏨 Tourism Booking System | ASP.NET Core • Angular • SQL Server |
+### ✈️ Smart Travel Planner
+
+Full-stack travel planning platform built using ASP.NET Core Web API, Angular and SQL Server.
 
 ---
 
+### 👁 Visionary Aid
+
+AI-powered graduation project for assisting visually impaired users.
+
+**Tech Stack**
+
+Python • PyTorch • EfficientNet • OpenCV • FastAPI • gTTS
+
+Grade: **A+**
+
+---
+
+### 🏨 Tourism Booking System
+
+Developed during DEPI Program using:
+
+- ASP.NET Core
+- Angular
+- SQL Server
+
+---
 # 🎓 Education
 
 **Bachelor's Degree in Computer Science**
@@ -143,38 +158,6 @@ Egyptian E-Learning University
 - 🌐 CCNAv7 – Switching, Routing & Wireless Essentials
 - 🎓 ITI Full Stack Web Development with .NET
 - 🎓 DEPI Full Stack Web Development with .NET
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariammostafa224&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariammostafa224&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mariammostafa224&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mariammostafa224&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/>
-
-</div>
 
 ---
 
