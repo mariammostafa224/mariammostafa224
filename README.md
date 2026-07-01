@@ -57,14 +57,31 @@
 
 </p>
 
-### Back-End
+### ⚙️ Back-End
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LINQ-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ADO.NET-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 
 </p>
-
 ### Databases
 
 <p>
